@@ -18,7 +18,7 @@ what i learned:
 this project taught me:
 
 * how browser audio works
-* using Tone.js for sound synthesis
+* using tone.js for sound synthesis
 * event listeners and keyboard interactions
 * mapping user input to musical notes
 * structuring a basic frontend project
@@ -28,3 +28,6 @@ this project taught me:
 * the importance of experimenting and learning through trial and error. 
 
 created to bring a little bit of jazz into the browser <3
+
+
+https://aanwwya.github.io/seb-s/
